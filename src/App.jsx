@@ -1,5 +1,6 @@
 import Header from "./Components/Header";
 import HeroSection from "./Components/HeroSection";
+import Api from "./Components/Api";
 
 
 
@@ -9,6 +10,7 @@ function App() {
     <>
       <Header/>
       <HeroSection/>
+      <Api/>
     </>
   )
 }
