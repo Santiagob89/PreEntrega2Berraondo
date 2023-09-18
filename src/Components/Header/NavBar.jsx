@@ -5,7 +5,7 @@ const navigation = [
   { name: 'Home', href: '#', current: true },
   { name: 'Bio', href: '#', current: false },
   { name: 'Series', href: '#', current: false },
-  { name: 'Calendar', href: '#', current: false },
+  { name: 'Fine Art', href: '#', current: false },
 ]
 
 
@@ -23,8 +23,8 @@ function NavBar() {
                         key={item.name}
                         href={item.href}
                         className={classNames(
-                          item.current ? 'bg-gray-900 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white',
-                          'rounded-md px-3 py-2 text-sm font-medium'
+                          item.current ? 'bg-gray-900 text-white' : 'text-gray-800 hover:bg-gray-700 hover:text-white',
+                          'rounded-md px-3 py-1 text-sm font-medium '
                         )}
                         aria-current={item.current ? 'page' : undefined}
                       >

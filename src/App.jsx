@@ -1,6 +1,6 @@
-import Header from "./Components/Header";
+import IndexHeader from "./Components/Header/IndexHeader";
 import HeroSection from "./Components/HeroSection";
-import Api from "./Components/Api";
+
 
 
 
@@ -8,9 +8,8 @@ function App() {
 
   return (
     <>
-      <Header/>
+      <IndexHeader/>
       <HeroSection/>
-      <Api/>
     </>
   )
 }

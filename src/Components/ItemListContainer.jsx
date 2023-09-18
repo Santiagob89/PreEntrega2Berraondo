@@ -1,12 +1,18 @@
 import React from 'react'
+import Pic1 from './../assets/img/pic1.jpg'
+import Pic2 from './../assets/img/pic2.jpg'
+import Pic3 from './../assets/img/pic3.jpg'
+import Pic4 from './../assets/img/pic4.jpg'
+
+
 
 
 const products = [
   {
     id: 1,
     name: 'Basic Tee',
-    href: '#',
-    imageSrc: 'https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg',
+    href: '..',
+    imageSrc: Pic1,
     imageAlt: "Front of men's Basic Tee in black.",
     price: '$35',
     color: 'Black',
@@ -15,7 +21,7 @@ const products = [
     id: 2,
     name: 'Basic Tee',
     href: '#',
-    imageSrc: 'https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg',
+    imageSrc: Pic2,
     imageAlt: "Front of men's Basic Tee in black.",
     price: '$35',
     color: 'Black',
@@ -24,7 +30,7 @@ const products = [
     id: 3,
     name: 'Basic Tee',
     href: '#',
-    imageSrc: 'https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg',
+    imageSrc: Pic3,
     imageAlt: "Front of men's Basic Tee in black.",
     price: '$35',
     color: 'Black',
@@ -33,7 +39,7 @@ const products = [
     id: 4,
     name: 'Basic Tee',
     href: '#',
-    imageSrc: 'https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg',
+    imageSrc: Pic4,
     imageAlt: "Front of men's Basic Tee in black.",
     price: '$35',
     color: 'Black',
@@ -46,7 +52,7 @@ const ItemListContainer = () => {
     <div className="bg-white">
       <div className="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
         <h2 className="text-2xl font-bold tracking-tight text-gray-900">Productos disponibles</h2>
-
+        
         <div className="mt-6 grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8">
           {products.map((product) => (
             <div key={product.id} className="group relative">
