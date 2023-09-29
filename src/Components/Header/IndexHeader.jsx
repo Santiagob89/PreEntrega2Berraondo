@@ -9,7 +9,9 @@ const MainHeader = () => {
     <>
     <header className = "relative h-24 mx-auto flex items-center justify-around gap-2 p-4 bg-white ">
         <img src={Logo} alt="Logo" width = "200" />
-        <NavBar />
+        
+          <NavBar />
+        
         <div className='flex '>
           <CartWidget />
           <LoginUser />

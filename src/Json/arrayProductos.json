@@ -1,0 +1,107 @@
+
+
+[
+    {
+      "id": 1,
+      "name": "Basic Tee",
+      "imageSrc": "https://i.pinimg.com/236x/31/3f/ff/313fff163f77a48f1ba5a07744bc196b.jpg",
+      "imageAlt": "Fauna baclk white.",
+      "price": "$10500",
+      "color": "Black-white",
+      "stock": 10,
+      "categoria": "Fauna",
+      "description": "Lorem ipsum dolor sit amet. Aut minus sequi ex illo consequatur ut provident dolorum 33 quae cupiditate ut mollitia incidunt et nulla ipsa ex voluptatem itaque. Ut dolorem sequi ut accusamus aperiam et expedita quibusdam qui nobis debitis est incidunt consequatur est quidem provident ea tempore autem. 33 culpa accusantium aut sequi reiciendis id repellat autem hic quia accusantium."
+      
+    },
+    {
+        "id": 2,
+        "name": "Basic Tee",
+        "imageSrc": "https://p1.pxfuel.com/preview/909/767/725/monochrome-black-white-pilanesberg-national-park-portrait.jpg",
+        "imageAlt": "Fauna baclk white.",
+        "price": "$50000",
+        "color": "Black-white",
+        "stock": 5,
+        "categoria": "Fauna",
+        "description": "Lorem ipsum dolor sit amet. Aut minus sequi ex illo consequatur ut provident dolorum 33 quae cupiditate ut mollitia incidunt et nulla ipsa ex voluptatem itaque. Ut dolorem sequi ut accusamus aperiam et expedita quibusdam qui nobis debitis est incidunt consequatur est quidem provident ea tempore autem. 33 culpa accusantium aut sequi reiciendis id repellat autem hic quia accusantium."
+      },
+      {
+        "id": 3,
+        "name": "Basic Tee",
+        "imageSrc": "https://images.unsplash.com/photo-1543682704-15adeb008ac4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YW5pbWFscyUyMGJsYWNrJTIwYW5kJTIwd2hpdGV8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+        "imageAlt": "Fauna baclk white.",
+        "price": "$170000",
+        "color": "Black-white",
+        "stock": 8,
+        "categoria": "Fauna",
+        "description": "Lorem ipsum dolor sit amet. Aut minus sequi ex illo consequatur ut provident dolorum 33 quae cupiditate ut mollitia incidunt et nulla ipsa ex voluptatem itaque. Ut dolorem sequi ut accusamus aperiam et expedita quibusdam qui nobis debitis est incidunt consequatur est quidem provident ea tempore autem. 33 culpa accusantium aut sequi reiciendis id repellat autem hic quia accusantium."
+      },
+      {
+        "id": 4,
+        "name": "Basic Tee",
+        "imageSrc": "https://images.unsplash.com/photo-1446149330071-2f5996cb1b5e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cGFpc2FqZSUyMGJsYW5jbyUyMHklMjBuZWdyb3xlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+        "imageAlt": "Front of men's Basic Tee in black.",
+        "price": "$12000",
+        "color": "Black-white",
+        "stock": 15,
+        "categoria": "Paisaje",
+        "description": "Lorem ipsum dolor sit amet. Aut minus sequi ex illo consequatur ut provident dolorum 33 quae cupiditate ut mollitia incidunt et nulla ipsa ex voluptatem itaque. Ut dolorem sequi ut accusamus aperiam et expedita quibusdam qui nobis debitis est incidunt consequatur est quidem provident ea tempore autem. 33 culpa accusantium aut sequi reiciendis id repellat autem hic quia accusantium."
+      },
+      {
+        "id": 5,
+        "name": "Basic Tee",
+        "imageSrc": "https://img.freepik.com/fotos-premium/fondo-paisaje-canon-blanco-negro-vertical-hd_199726-1170.jpg",
+        "imageAlt": "Front of men's Basic Tee in black.",
+        "price": "$12000",
+        "color": "Black-white",
+        "stock": 11,
+        "categoria": "Paisaje",
+        "description": "Lorem ipsum dolor sit amet. Aut minus sequi ex illo consequatur ut provident dolorum 33 quae cupiditate ut mollitia incidunt et nulla ipsa ex voluptatem itaque. Ut dolorem sequi ut accusamus aperiam et expedita quibusdam qui nobis debitis est incidunt consequatur est quidem provident ea tempore autem. 33 culpa accusantium aut sequi reiciendis id repellat autem hic quia accusantium."
+      },
+      {
+        "id": 6,
+        "name": "Basic Tee",
+        "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRphM1FfWIZaesduFfJZlUC8xcywKR_-SUsw&usqp=CAU",
+        "imageAlt": "Front of men's Basic Tee in black.",
+        "price": "$12000",
+        "color": "Black-white",
+        "stock": 22,
+        "categoria": "Paisaje",
+        "description": "Lorem ipsum dolor sit amet. Aut minus sequi ex illo consequatur ut provident dolorum 33 quae cupiditate ut mollitia incidunt et nulla ipsa ex voluptatem itaque. Ut dolorem sequi ut accusamus aperiam et expedita quibusdam qui nobis debitis est incidunt consequatur est quidem provident ea tempore autem. 33 culpa accusantium aut sequi reiciendis id repellat autem hic quia accusantium."
+      },
+      {
+        "id": 7,
+        "name": "Basic Tee",
+        "imageSrc": "https://img.freepik.com/foto-gratis/disparo-escala-grises-vertical-edificios-rascacielos-ciudad-nueva-york-estados-unidos_181624-37861.jpg",
+        "imageAlt": "Front of men's Basic Tee in black.",
+        "price": "$12000",
+        "color": "Black-white",
+        "stock": 13,
+        "categoria": "FineArte",
+        "description": "Lorem ipsum dolor sit amet. Aut minus sequi ex illo consequatur ut provident dolorum 33 quae cupiditate ut mollitia incidunt et nulla ipsa ex voluptatem itaque. Ut dolorem sequi ut accusamus aperiam et expedita quibusdam qui nobis debitis est incidunt consequatur est quidem provident ea tempore autem. 33 culpa accusantium aut sequi reiciendis id repellat autem hic quia accusantium."
+      },
+      {
+        "id": 8,
+        "name": "Basic Tee",
+        "imageSrc": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2019/12/08/5fa53cebc8551.jpeg",
+        "imageAlt": "Front of men's Basic Tee in black.",
+        "price": "$12000",
+        "color": "Black-white",
+        "stock": 17,
+        "categoria": "FineArte",
+        "description": "Lorem ipsum dolor sit amet. Aut minus sequi ex illo consequatur ut provident dolorum 33 quae cupiditate ut mollitia incidunt et nulla ipsa ex voluptatem itaque. Ut dolorem sequi ut accusamus aperiam et expedita quibusdam qui nobis debitis est incidunt consequatur est quidem provident ea tempore autem. 33 culpa accusantium aut sequi reiciendis id repellat autem hic quia accusantium."
+      },
+      {
+        "id": 9,
+        "name": "Basic Tee",
+        "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVO2HzdCrXf9KesAKR3-xKXTPQ1E7uL10zeQ&usqp=CAU",
+        "imageAlt": "Front of men's Basic Tee in black.",
+        "price": "$12000",
+        "color": "Black-white",
+        "stock": 23,
+        "categoria": "FineArte",
+        "description": "Lorem ipsum dolor sit amet. Aut minus sequi ex illo consequatur ut provident dolorum 33 quae cupiditate ut mollitia incidunt et nulla ipsa ex voluptatem itaque. Ut dolorem sequi ut accusamus aperiam et expedita quibusdam qui nobis debitis est incidunt consequatur est quidem provident ea tempore autem. 33 culpa accusantium aut sequi reiciendis id repellat autem hic quia accusantium."
+      }
+      
+    
+]
+      
